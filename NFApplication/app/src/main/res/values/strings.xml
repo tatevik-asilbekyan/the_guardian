@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TheGuardian</string>
+    <string name="feed_type">Feed Type</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="empty_content">The content isn\'t available yet</string>
+    <string name="notification_title">You have new article(s)</string>
+</resources>

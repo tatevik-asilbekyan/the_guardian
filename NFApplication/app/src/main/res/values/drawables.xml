@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ic_list" type="drawable">@drawable/ic_list_24dp</item>
+    <item name="ic_grid" type="drawable">@drawable/ic_grid_24dp</item>
+    <item name="ic_guardian" type="drawable">@drawable/ic_the_guardian</item>
+    <item name="ic_pin" type="drawable">@drawable/ic_star_24dp</item>
+    <item name="ic_save" type="drawable">@drawable/ic_save_24dp</item>
+    <item name="ic_close" type="drawable">@drawable/ic_expand_24dp</item>
+    <item name="ic_empty" type="drawable">@drawable/ic_communications</item>
+</resources>
